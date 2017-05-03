@@ -1,0 +1,2 @@
+#/bin/sh
+curl --user SaurabhRMDR:1f65f40f4cfe969dead319fbee422a40 http://localhost:8080/jenkins/job/script_job/build?token=mytoken
